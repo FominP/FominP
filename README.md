@@ -6,3 +6,5 @@ I use SQL, Python (pandas, sqlalchemy etc.), and I make small experiments with o
 My LinkedIn: https://www.linkedin.com/in/pafomin
 
 My kaggle: https://www.kaggle.com/pavelfomin
+
+My Tableau Public: https://public.tableau.com/app/profile/pavel.fomin/vizzes
