@@ -9,7 +9,7 @@ My kaggle: https://www.kaggle.com/pavelfomin
 
 My Tableau Public: https://public.tableau.com/app/profile/pavel.fomin/vizzes
 
-You can explore my repositories:
+### My repositories:
 
 [DataProjects](https://github.com/FominP/DataProjects) contains my jupyter notebooks for data analysis projects (hence the title).
 
