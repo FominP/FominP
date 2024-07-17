@@ -14,3 +14,5 @@ You can explore my repositories:
 [DataProjects](https://github.com/FominP/DataProjects) contains my jupyter notebooks for data analysis projects (hence the title).
 
 [GoogleAuto](https://github.com/FominP/GoogleAuto) contains my experiments with Google Apps Script (mainly for simple automatisation in Google Forms and Google Calendar).
+
+[Kaggle](https://github.com/FominP/Kaggle) contains my notebooks from Kaggle.
