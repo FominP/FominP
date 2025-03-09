@@ -7,7 +7,7 @@
 
 Мой kaggle: https://www.kaggle.com/pavelfomin
 
-Моя Tableau Public: https://public.tableau.com/app/profile/pavel.fomin/vizzes
+Мой Tableau Public: https://public.tableau.com/app/profile/pavel.fomin/vizzes
 
 ### Мои репозитории:
 
