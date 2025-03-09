@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## RU
 Я продуктовый аналитик
+
 Я использую SQL, Python (pandas, sqlalchemy и т.д.) и немного экспериментирую с другими вещами (Google Apps script, scipy и т.д.)
 
 Мой LinkedIn: https://www.linkedin.com/in/pafomin
@@ -19,6 +20,7 @@
 
 ## EN
 I am a Product Analyst
+
 I use SQL, Python (pandas, sqlalchemy etc.), and I make small experiments with other things (Google Apps script, scipy)
 
 My LinkedIn: https://www.linkedin.com/in/pafomin
