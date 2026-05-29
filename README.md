@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 ## RU
 Я продуктовый аналитик
 
@@ -14,8 +15,10 @@
 
 - [DataProjects](https://github.com/FominP/DataProjects) содержит мои jupyter-ноутбуки с проектами по анализу данных (отсюда и название).
 - [ABProject](https://github.com/FominP/ABProject) — Python-библиотека `ab_test_analyzer` с готовыми функциями для статистических тестов в A/B-тестировании. Установка: `pip install ab_test_analyzer`.
-- [ABCalculator](https://github.com/FominP/ABCalculator) — веб-калькулятор для A/B-тестирования на Flask на основе библиотеки `ab_test_analyzer`. Позволяет рассчитать Z-тест, T-тест Уэлча, хи-квадрат, SRM и MDE с визуализацией и выводом доверительных интервалов. Ссылка: https://abcalculator-fominpavel243.amvera.io/ 
+- [ABCalculator](https://github.com/FominP/ABCalculator) — веб-калькулятор для A/B-тестирования на Flask на основе библиотеки `ab_test_analyzer`. Позволяет рассчитать Z-тест, T-тест Уэлча, хи-квадрат, SRM и MDE с визуализацией и выводом доверительных интервалов. Ссылка: https://abcalculator-fominpavel243.amvera.io/
+- [RAGProject](https://github.com/FominP/RAGProject) — веб-приложение для анализа PDF-документов с помощью YandexGPT (без эмбеддингов, но с синтезом ответа по частям). Поддерживает выделение основных мыслей, классификацию утверждений (факты, мнения, оценки, рекомендации) и ответы на вопросы по содержанию документа. Развёрнуто на Streamlit, упаковано в Docker. Доступно по ссылке: https://ragproject-fominpavel243.amvera.io.
 - [GoogleAuto](https://github.com/FominP/GoogleAuto) содержит мои эксперименты c Google Apps Script (в основном для простой автоматизации в Google Forms и Google Календаре).
+
 
 ## EN
 I am a Product Analyst
@@ -33,4 +36,5 @@ My Tableau Public: https://public.tableau.com/app/profile/pavel.fomin/vizzes
 - [DataProjects](https://github.com/FominP/DataProjects) contains my jupyter notebooks for data analysis projects (hence the title).
 - [ABProject](https://github.com/FominP/ABProject) — Python library `ab_test_analyzer` providing statistical test functions for A/B testing. Install via `pip install ab_test_analyzer`.
 - [ABCalculator](https://github.com/FominP/ABCalculator) — a web-based A/B testing calculator built with Flask on a basis of `ab_test_analyzer` library. It computes Z-test, Welch's t-test, chi-square, SRM check, and MDE, with visualization and confidence intervals. Link: https://abcalculator-fominpavel243.amvera.io/
+- [RAGProject](https://github.com/FominP/RAGProject) — a web app for PDF analysis using YandexGPT (no embeddings, but with chunk‑based answer synthesis). Supports key ideas extraction, statement classification (facts, opinions, evaluations, recommendations) and Q&A on document content. Built with Streamlit, packaged in Docker. Link: https://ragproject-fominpavel243.amvera.io.
 - [GoogleAuto](https://github.com/FominP/GoogleAuto) contains my experiments with Google Apps Script (mainly for simple automatisation in Google Forms and Google Calendar).
